@@ -1,7 +1,7 @@
 {
-  "name": "puppeteer-commonjs-cucumber-chai",
+  "name": "puppeteer-commonjs-cucumber-assert",
   "version": "1.0.0",
-  "description": "Puppeteer end-to-end test automation boilerplate, using CommonJS, Cucumber and Chai.",
+  "description": "Puppeteer end-to-end test automation boilerplate, using CommonJS, Cucumber and Assert.",
   "scripts": {
     "test": "./node_modules/.bin/cucumber-js",
     "lint": "npx eslint --ext .js ./ --fix"
@@ -10,7 +10,7 @@
     "puppeteer",
     "commonjs",
     "cucumber",
-    "chai",
+    "assert",
     "boilerplate",
     "example"
   ],
