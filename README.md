@@ -1,6 +1,6 @@
 # Puppeteer: (CommonJS, CucumberJS and Assert)
 
-[![GitHub Actions status | e2e-boilerplates/puppeteer-commonjs-cucumber-assert](https://github.com/e2e-boilerplates/puppeteer-commonjs-cucumber-assert/workflows/puppeteer-commonjs-cucumber-assert/badge.svg)](https://github.com/e2e-boilerplates/puppeteer-commonjs-cucumber-assert/actions?workflow=puppeteer-commonjs-cucumber-assert)
+[![GitHub Actions status | e2e-boilerplates/puppeteer-commonjs-cucumberjs-assert](https://github.com/e2e-boilerplates/puppeteer-commonjs-cucumberjs-assert/workflows/puppeteer-commonjs-cucumberjs-assert/badge.svg)](https://github.com/e2e-boilerplates/puppeteer-commonjs-cucumberjs-assert/actions?workflow=puppeteer-commonjs-cucumberjs-assert)
 
 Puppeteer end-to-end test automation boilerplate, using CommonJS, CucumberJS and Assert.
 
