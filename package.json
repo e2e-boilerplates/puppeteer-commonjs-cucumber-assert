@@ -1,5 +1,5 @@
 {
-  "author": "Girma Nigusse <xgirma@gmail.com> (https://github.com/xgirma)",
+  "author": "",
   "dependencies": {
     "cucumber": "6.0.5",
     "puppeteer": "2.1.1"
@@ -24,13 +24,8 @@
   },
   "keywords": [
     "assert",
-    "boilerplate",
     "commonjs",
     "cucumberjs",
-    "e2e",
-    "e2e tests",
-    "example",
-    "integration test",
     "puppeteer"
   ],
   "license": "MIT",
