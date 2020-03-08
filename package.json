@@ -1,10 +1,10 @@
 {
-  "author": "",
+  "author": "Girma Nigusse <xgirma@gmail.com> (https://github.com/xgirma)",
   "dependencies": {
     "cucumber": "6.0.5",
     "puppeteer": "2.1.1"
   },
-  "description": "Puppeteer end-to-end test automation boilerplate, using CommonJS, CucumberJS and Assert.",
+  "description": "puppeteer end-to-end test automation boilerplate.",
   "devDependencies": {
     "eslint": "6.8.0",
     "eslint-config-airbnb-base": "14.0.0",
@@ -24,8 +24,13 @@
   },
   "keywords": [
     "assert",
+    "boilerplate",
     "commonjs",
     "cucumberjs",
+    "e2e",
+    "e2e tests",
+    "example",
+    "integration test",
     "puppeteer"
   ],
   "license": "MIT",
